@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="https://programmx.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/programmxhq/.github/main/brand/logo-dark.png">
+      <img src="https://raw.githubusercontent.com/programmxhq/.github/main/brand/logo-light.png" alt="ProgrammX" width="300">
+    </picture>
+  </a>
+</p>
+
 # PumpFun AMM Launch and Swap
 
 This project includes scripts to **create a PumpFun Automated Market Maker (AMM)** and **perform buy/sell operations** on the AMM using Solana.
@@ -69,3 +78,7 @@ To perform a sell operation:
 npm run sell
 
 ```
+
+---
+
+<sub>Built by <a href="https://programmx.com">ProgrammX</a> — AI & blockchain product studio · <a href="mailto:hello@programmx.com">hello@programmx.com</a></sub>
